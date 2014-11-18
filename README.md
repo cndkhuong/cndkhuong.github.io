@@ -32,7 +32,7 @@ ACHIEVEMENTS
 
 TECHNICAL SKILLS
 -----------------------
-- Language and Script: Java, Javascipt, Ruby, Groovy, PHP, Python
+- Language and Script: Java, Javascipt, Ruby, PHP
 - Database: Oracle, MySQL, Postgres, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
 - Configuration Management Tools: SVN & Git, Jira & Redmine,, Sonar, Maven, Hudson & Jenkins,
@@ -57,7 +57,8 @@ PROFESSIONAL EXPERIENCES
 January 2014 - Present
 
 Senior Application Consultant - Key Member
-> Fortune : A gambling online system for Horse racing
+
+> **Fortune** : A gambling online system for Horse racing
 > 
 > 	Size : ~20 people
 > 
@@ -80,6 +81,7 @@ Senior Application Consultant - Key Member
 February 2010 to end of 2013
 
 Senior Application Consultant – Key Member
+
 > **E-banking** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
 
 >	Size : 15~30 people 
@@ -96,13 +98,12 @@ Senior Application Consultant – Key Member
 > || - OS: Linux, Window
 > || - Browsers: IE, Firefox, Safari and Chrome
 > |Position| - Senior Developer (Backend) & Technique Teamlead
-> |Responsibility| + Do estimation for technical tasks as well as normal coding tasks
+> |Responsibility| - Do estimation for technical tasks as well as normal coding tasks
 > || - Design and compose technical document
 > || - Building and coding framework
 > || - Review, update, fix defects, and maintain the stable code for the application
 > || - Support team members under the requirement, structure, and framework
 > || - Delivery and deploy the application on client side
-
 
 
 > **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card. Besides, individual customers could use normal sim with 3G network to do transactions that have been registered using these services such as activated the core purse account, reset password, transferred money from an electronic purse to other electronic purses, checked balance, checked account history, electronic recharge money, paid bill, and purchased prepaid card.
@@ -121,7 +122,7 @@ Senior Application Consultant – Key Member
 > || - OS: Linux, Window
 > || - Browsers: IE, Firefox
 > |Position| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |Responsibility| + Do estimation for technical tasks as well as normal coding tasks
+> |Responsibility| - Do estimation for technical tasks as well as normal coding tasks
 > || - Design and compose technical document
 > || - Building and coding framework
 > || - Review, update, fix defects, and maintain the stable code for the application
@@ -145,7 +146,7 @@ Senior Application Consultant – Key Member
 > || - OS: Linux, Window
 > || - Enverionment : console
 > |Position| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |Responsibility| + Do estimation for technical tasks as well as normal coding tasks
+> |Responsibility| - Do estimation for technical tasks as well as normal coding tasks
 > || - Design and compose technical document
 > || - Building and coding framework
 > || - Build and deploy system with Maven, Hudson and Sonar
@@ -160,9 +161,9 @@ Senior Application Consultant – Key Member
 > | :------- | :--- |
 > | Skill Set Utilized | -   Define and design the process standard, document templates, and tools |
 > |Position| - QA&QC Team lead
-> |Responsibility| + Work with senior consultants to get advice and build the process standard, document templates, and tools
+> |Responsibility| - Work with senior consultants to get advice and build the process standard, document templates, and tools
 
-> **Internal Tesing App** : Building coding and testing framework standard
+> **Internal Tesing App** : Building coding and testing a framework standard
 
 >	Size : ~5 people 
 
@@ -175,7 +176,7 @@ Senior Application Consultant – Key Member
 > || - OS: Linux, Window
 > || - IE, Firefox, and Chorme
 > |Position| - Teamlead
-> |Responsibility| + Build and deploy system with Maven, Hudson and Sonar
+> |Responsibility| - Build and deploy system with Maven, Hudson and Sonar
 > || - Build framework testing for both Unit test (DEV) and a automation testing (QC) system
 
 **Manulife Insurance Vietnam**
@@ -199,7 +200,7 @@ Analysis Programmer
 > || - OS: Window
 > || - Browsers: IE
 > |Position| - Senior Developer (Frontend & Backend)
-> |Responsibility| + Develop and maintain CAS system as keeping code version, making build following code version, and deploy Foxpro application for agency
+> |Responsibility| - Develop and maintain CAS system as keeping code version, making build following code version, and deploy Foxpro application for agency
 > || - Do extra enhancement as Oracle Form and Report
 > || - Upgrade System CAS to Oracle 10G
 > || - Upgrade Agency Website with iBM Lotus Notes
@@ -227,7 +228,7 @@ Developer
 > || - OS: Windows & Linux
 > || - Browsers: IE
 > |Position| - Developer backend
-> |Responsibility| + Develop backend and database access on Java>
+> |Responsibility| - Develop backend and database access on Java>
 > || - Research from existing source code to figure out the business rules
 
 > **Company’s website** : build a website for company 
@@ -247,7 +248,7 @@ Developer
 > || - OS: Windows & Linux
 > || - Browsers: IE, Firefox
 > |Position| - Developer frontend & backend
-> |Responsibility| + Research Struts framework
+> |Responsibility| - Research Struts framework
 > || - Design and structure the website
 > || - Develop website with Struts, JSP
 
