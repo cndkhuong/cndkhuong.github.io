@@ -103,6 +103,8 @@ Senior Application Consultant – Key Member
 > || - Support team members under the requirement, structure, and framework
 > || - Delivery and deploy the application on client side
 
+
+
 > **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card. Besides, individual customers could use normal sim with 3G network to do transactions that have been registered using these services such as activated the core purse account, reset password, transferred money from an electronic purse to other electronic purses, checked balance, checked account history, electronic recharge money, paid bill, and purchased prepaid card.
 
 >	Size : ~10 people 
@@ -127,3 +129,136 @@ Senior Application Consultant – Key Member
 > || - Delivery and deploy the application on client side
 > || - Connect & Authenticate on partner connection
 > || - Make Web Service as API and testing
+
+> **Banking on SIM** : same service as ebanking project but can process on mobile SIM card
+
+>	Size : ~5 people 
+
+> 	Duration : 3 months
+
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Program language/Framework: ISO8583, Socket, Java, RMI, Web service |
+> || - Database: Oracle & PLSQL
+> || - Application server: Tomcat 7
+> || - Source control: SVN
+> || - OS: Linux, Window
+> || - Enverionment : console
+> |Position| - Senior Developer (Frontend & Backend) & Technique Teamlead
+> |Responsibility| + Do estimation for technical tasks as well as normal coding tasks
+> || - Design and compose technical document
+> || - Building and coding framework
+> || - Build and deploy system with Maven, Hudson and Sonar
+> || - Build framework testing for both Unit test and a testing system
+
+> **CMMi Level 3** : build software process for company
+
+>	Size : company 
+
+> 	Duration : January 2013 – December 2013
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Define and design the process standard, document templates, and tools |
+> |Position| - QA&QC Team lead
+> |Responsibility| + Work with senior consultants to get advice and build the process standard, document templates, and tools
+
+> **Internal Tesing App** : Building coding and testing framework standard
+
+>	Size : ~5 people 
+
+> 	Duration : 2 months
+
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Maven, Hudson and Sonar, Junit, Jmeter, Spring, Mockito, Selenium |
+> || - Source control: SVN
+> || - OS: Linux, Window
+> || - IE, Firefox, and Chorme
+> |Position| - Teamlead
+> |Responsibility| + Build and deploy system with Maven, Hudson and Sonar
+> || - Build framework testing for both Unit test (DEV) and a automation testing (QC) system
+
+**Manulife Insurance Vietnam**
+
+2007 – 2010
+
+Analysis Programmer 
+
+> Enhancement and Maintain CAS : developing system is called as CAS (Client Admin System) on Oracle PLSQL
+
+> 
+> 	Size : ~20 people
+> 
+> 	Duration : 1 year
+
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Java, PLSQL, HTML, Foxpro  |
+> || - Application server: Oracle Application Server
+> || - Source control: share directories
+> || - OS: Window
+> || - Browsers: IE
+> |Position| - Senior Developer (Frontend & Backend)
+> |Responsibility| + Develop and maintain CAS system as keeping code version, making build following code version, and deploy Foxpro application for agency
+> || - Do extra enhancement as Oracle Form and Report
+> || - Upgrade System CAS to Oracle 10G
+> || - Upgrade Agency Website with iBM Lotus Notes
+
+**Atom Software Solution - Vietnam**
+
+2005 – 2007
+
+Developer
+
+> **Hospital Management ** : uses Rich Client (Curl) to build system like desktop app
+
+> 
+> 	Size : ~10 people
+> 
+> 	Duration : 1 year
+
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Java backend  |
+> || - Database: MySQL
+> || - Application server: Tomcat
+> || - Tracker: Dotproject
+> || - Source control: SVN
+> || - OS: Windows & Linux
+> || - Browsers: IE
+> |Position| - Developer backend
+> |Responsibility| + Develop backend and database access on Java>
+> || - Research from existing source code to figure out the business rules
+
+> **Company’s website** : build a website for company 
+
+> 
+> 	Size : ~10 people
+> 
+> 	Duration : 2 months
+
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Java, JSP/Servlet, Struts  |
+> || - Database: MySQL
+> || - Application server: Tomcat
+> || - Tracker: Dotproject
+> || - Source control: SVN
+> || - OS: Windows & Linux
+> || - Browsers: IE, Firefox
+> |Position| - Developer frontend & backend
+> |Responsibility| + Research Struts framework
+> || - Design and structure the website
+> || - Develop website with Struts, JSP
+
+**Pissoft - Vietnam**
+
+2005 – 2006
+
+Associate Developer
+
+> Develop and research JSF, Hibernate
+
+> Develop school management application using Swing
+
+> Research JSF, Hibernate for development
