@@ -15,6 +15,11 @@ CAREER OBJECTION
 ----------------------------
 Be part of a committed workforce community where I can utilize my coding skills, analysis and design applications, and communicate skills.
 
+QUALIFICATION HIGHLIGHTS
+------------------------
+- Best programmer of year (2011)
+- Key member at last companies
+
 ACHIEVEMENTS
 -------------------
 - Gain trust of colleagues
@@ -48,23 +53,52 @@ TRAININGS ATTENDED
 PROFESSIONAL EXPERIENCES
 ------------------------------------
 **Quadrant Technologies – Singapore**
+
 January 2014 - Present
+
 Senior Application Consultant - Key Member
 > Fortune : A gambling online system for Horse racing
-> Size : 15 people 
-> Duration : 1 year
-
+> 
+> 	Size : 30 people
+> 
+> 	Duration : 1 year
 
 > | | |
 > | :------- | :--- |
 > | Skill Set Utilized | -   Maven, Jenkins, J2EE, Spring, GWT, Javascipt, HTML5/CSS  |
->|| - Application server: Glassfish
->|| - Tracker: Redmine
->|| - Source control: SVN
->|| - OS: Linux, Window
->|| - Browsers: IE, Firefox, Safari and Chrome
->|Position| - Senior Developer (Frontend & Backend)
->|Responsibility| + Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
->||+ Build and deploy system with Maven, Jenkins and SVN
+> || - Application server: Glassfish
+> || - Tracker: Redmine
+> || - Source control: SVN
+> || - OS: Linux, Window
+> || - Browsers: IE, Firefox, Safari and Chrome
+> |Position| - Senior Developer (Frontend & Backend)
+> |Responsibility| + Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
+> ||+ Build and deploy system with Maven, Jenkins and SVN
 
+**Dong A Bank - Vietnam**
 
+February 2010 to end of 2013
+
+Senior Application Consultant – Key Member
+> E-banking : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
+
+>	Size : 15 people 
+
+> 	Duration : 1 year
+
+> | | |
+> | :------- | :--- |
+> | Skill Set Utilized | -   Program language/Framework: EJB, Web Services, EIP, EJB, Spring, Hibernate/JPA, BPM Workflow(Activity)Eclipse, Sonar, and Hudson  |
+> || - Database: Oracle
+> || - Application server: Tomcat 7
+> || - Tracker: Jira
+> || - Source control: SVN
+> || - OS: Linux, Window
+> || - Browsers: IE, Firefox, Safari and Chrome
+> |Position| - Senior Developer (Backend) & Technique Teamlead
+> |Responsibility| + Do estimation for technical tasks as well as normal coding tasks
+> ||+ Design and compose technical document
+> ||+ Building and coding framework
+> ||+ Review, update, fix defects, and maintain the stable code for the application
+> ||+ Support team members under the requirement, structure, and framework
+> ||+ Delivery and deploy the application on client side
