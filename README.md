@@ -98,7 +98,7 @@ Teacher
 **Dong A Bank - Vietnam** (February 2010 to end of 2013)
 Senior Application Consultant – Key Member
 
-> **E-banking (Web/SIM Card)** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
+> **E-banking (Web/SIM Card)** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems.
 
 > | 						| 								|
 > | :----------------------| :--- |
@@ -122,7 +122,7 @@ Senior Application Consultant – Key Member
 > |					| - Estimate task and assign, improve management skill
 > |					| - Merge banking process with application on SIM
 
-> **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card. Besides, individual customers could use normal sim with 3G network to do transactions that have been registered using these services such as activated the core purse account, reset password, transferred money from an electronic purse to other electronic purses, checked balance, checked account history, electronic recharge money, paid bill, and purchased prepaid card.
+> **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card.
 
 > |						 | 								|
 > | :------------------- | :--------------------------- |
