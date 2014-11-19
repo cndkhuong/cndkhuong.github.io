@@ -36,10 +36,11 @@ TECHNICAL SKILLS
 - Language and Script: Java, Javascipt, Ruby, PHP
 - Database: Oracle, MySQL, Postgres, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
-- Configuration Management Tools: SVN & Git, Jira & Redmine,, Sonar, Maven, Hudson & Jenkins,
+- Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
 - Methodology: RUP & Scrum
 - Office: Microsoft Office – Word, Excel, Power Point, Outlook, and Visio
 - Operation system : Windows, Linux, Android
+- Browsers: IE, Firefox, Safari and Chrome
 
 EDUCATION
 --------------
@@ -61,7 +62,7 @@ Senior Application Consultant - Key Member
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
 > | Skill Set 		| - Program language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
-> |					| - Tools : Tracker: Redmine, CI : Jenkins,Source control: SVN, IDE : Netbeans
+> |					| - Tools : Redmine, Jenkins, SVN, Netbeans
 > |					| - Environments : Database : MySQL, Application server: Glassfish, OS: Linux, Window, Browsers: IE, Firefox, Safari and Chrome
 > |	Position		| - Senior Developer (Frontend & Backend)
 > |	Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
@@ -84,7 +85,7 @@ Teacher
 > | 						| 								|
 > | :----------------------| :--------- |
 > | Skill Set 		| - Program language/Framework: Java  |
-> |					| - Tools : Microsoft Power point, Netop School, IDE : Netbeans, Eclipse, Notepad++, Command line
+> |					| - Tools : Microsoft Power point, Netop School
 > |					| - Environments : Window
 > | Position		| - Teacher
 > | Responsibility	| - Plan structure of program , lesson compose both slide and laps
@@ -103,8 +104,8 @@ Senior Application Consultant – Key Member
 
 > | 						| 								|
 > | :----------------------| :--- |
-> | Skill Set 		| - Program language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity), ISO8583, Web Service, Socket
-> |					| - Tools : Tracker: Jira, CI : Hubson+Sonar, Source control: SVN, IDE : Eclipse, Soap UI
+> | Skill Set 		| - Language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity), ISO8583, Web Service, Socket
+> |					| - Tools : Jira, Hubson+Sonar, SVN, Eclipse/Soap UI
 > |					| - Environments : Database: Oracle, Application server: JBoss AS, Console, OS: Linux, Browsers: IE, Firefox and Chrome
 > | Position		| - Senior Developer (Backend) & Technique Teamlead
 > | Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
@@ -129,9 +130,9 @@ Senior Application Consultant – Key Member
 
 > |						 | 								|
 > | :------------------- | :--------------------------- |
-> | Skill Set 		| - Program language/Framework: Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service
-> |					| - Tools : Tracker: Jira, Source control: SVN, IDE : JBuilder, Soap UI
-> |					| - Environments : Database: Oracle & PLSQL, Application server: Tomcat 7, OS: Linux, Window, Browsers: IE, Firefox
+> | Skill Set 		| - Language/Framework: PLSQL, Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service
+> |					| - Tools : Jira, SVN, JBuilder/Soap UI
+> |					| - Environments : Oracle, Application server: Tomcat 7, OS: Linux, Window, Browsers: IE, Firefox
 > |	Position		| - Senior Developer (Frontend & Backend) & Technique Teamlead
 > |	Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
 > |					| - Design and compose technical document
@@ -161,9 +162,9 @@ Senior Application Consultant – Key Member
 
 > | 				|							 |
 > | :-------------- | :--- |
-> | Skill Set 		| - Program language/Framework : Java Swing, Groovy, Selenium
+> | Skill Set 		| - Language/Framework : Java Swing, Groovy, Selenium
 > |					| - Tools : Maven, Hudson and Sonar, JUnit, JMeter, Spring, Mockito, Selenium IDE |
-> |					| - Environments : OS: Linux, Window, Browsers: IE, Firefox, Chrome
+> |					| - Environments : Linux/Window, IE/Firefox/Chrome
 > |	Position		| - Teamlead
 > | Responsibility	| - Building a development enviroment with Maven, Hudson and Sonar, Unittest
 > |					| - Create a automation testing tool that can automation re-test UI with data set use Groovy & Selenium library
@@ -180,9 +181,9 @@ Analysis Programmer
 
 > | 				|				 |
 > | :-------------- | :--- |
-> | Skill Set 		| - Program language/Framework : Java, PLSQL, HTML, Foxpro  |
+> | Skill Set 		| - Language/Framework : Java, PLSQL, HTML, Foxpro  |
 > |					| - Tools : Source control: share directories, Tracker : Excel, IDE : JDeveloper + Oracle Form & Report 
-> |					| - Environments : Application server: Oracle Application Server, OS: Window, Browsers: IE
+> |					| - Environments : Oracle Application Server, Window, IE
 > |	Lessons Learned	| - Study about insurance domain knowlege
 > |					| - Experience with Oracle PLSQL, UI with Oracle Form, data present with Oracle Report
 > |					| - Professionism with a international company
@@ -194,19 +195,20 @@ Developer
 
 > | 				|			 |
 > | :-------------- | :--- |
-> | Skill Set		| - Program language/Framework :  Java backend  |
-> |					| - Tools : Tracker: Dotproject, Source control: SVN, 
-> |					| - Environments : Database: MySQL, Application server: Tomcat, Browsers: IE
+> | Skill Set		| - Language/Framework :  Java backend  |
+> |					| - Tools : Dotproject, SVN, 
+> |					| - Environments : MySQL, Tomcat, IE
 > |	Lessons Learned	| - Study about management application
 > |					| - Experience with Java backend
 > |					| - Learn Japanese
 
 > **Company’s website** : build a website for company 
+
 > | 				|			 |
-> | :-------------- | :--- |
-> | Skill Set 		| - Program language/Framework :  Java, JSP/Servlet, HTML/CSS/Javascript, Struts  |
-> |					| - Tools : Tracker: Dotproject, Source control: SVN
-> |					| - Environments : Database: MySQL, Web server: Tomcat, OS: Windows & Linux, Browsers: IE, Firefox
+> | :---------------| :--- |
+> | Skill Set 		| - Language/Framework :  Java, JSP/Servlet, HTML/CSS/Javascript, Struts  |
+> |					| - Tools : Dotproject, SVN
+> |					| - Environments : MySQL, Tomcat,Windows,IE/Firefox
 > |	Lessons Learned	| - Study about web application
 > |					| - Experience with design with HTML/CSS
 > |					| - Learn Javascript
@@ -214,7 +216,7 @@ Developer
 **Pissoft - Vietnam** (2005 – 2006)
 Associate Developer
 
-> Develop and research JSF, Hibernate
-> Develop school management application using Swing
-> Research JSF, Hibernate for development
-> Lessons Learned : First company, learning more about software development, presentation, documentation, learn by myself and apply new technique to project
+> * Develop and research JSF, Hibernate
+> * Develop school management application using Swing
+> * Research JSF, Hibernate for development
+> * Lessons Learned : First company, learning more about software development, presentation, documentation, learn by myself and apply new technique to project
