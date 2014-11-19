@@ -10,7 +10,6 @@
 
 ----------
 
-
 CAREER OBJECTION
 ----------------------------
 Be part of a committed workforce community where I can utilize my coding skills, analysis and design applications, and communicate skills.
@@ -96,9 +95,10 @@ Teacher
 > |					| - Try to make source code easy to understand
 
 **Dong A Bank - Vietnam** (February 2010 to end of 2013)
+
 Senior Application Consultant – Key Member
 
-> **E-banking (Web/SIM Card)** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems.
+> **E-banking** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and SIM card ….Its functions are transfer accounts, payment bills via banking system and other systems.
 
 > | 						| 								|
 > | :----------------------| :--- |
@@ -106,21 +106,15 @@ Senior Application Consultant – Key Member
 > |					| - Tools : Jira, Hubson+Sonar, SVN, Eclipse/Soap UI
 > |					| - Environments : Database: Oracle, Application server: JBoss AS, Console, OS: Linux, Browsers: IE, Firefox and Chrome
 > | Position		| - Senior Developer (Backend) & Technique Teamlead
-> | Responsibility	| - Design and compose technical document 
-> | 				| - Research and apply Maven, Nexus, Sonar, Unittest, Loadtest for development team 
-> |					| - Building and coding framework
+> | Responsibility	| - Design system structure 
+> | 				| - Build & support Maven, Nexus, Sonar, Unittest, Loadtest for development team 
 > |					| - Review, update, fix defects, and maintain the stable code for the application
-> |					| - Support team members under the requirement, structure, and framework
-> |					| - Delivery and deploy the application on client side
 > |	Lessons Learned	| - Study about banking domain, SIM application
 > |					| - Structure of large system with module, communicate together by remote protocols & event (EIP)
 > |					| - Structure of client-server and API exposure with socket, web service & ISO8583 standard 
 > |					| - Quality of code by use unittest, source code checktype (Sonar), test coverage, auto build, 
-> |					| - Manage dependency libraries with Maven, Nexus
-> |					| - Deployment process and version control 
-> |					| - Design authentication, authorization of parners when use API 
+> |					| - Manage dependency libraries with Maven, Nexus 
 > |					| - Estimate task and assign, improve management skill
-> |					| - Merge banking process with application on SIM
 
 > **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card.
 
@@ -137,7 +131,7 @@ Senior Application Consultant – Key Member
 > |					| - Make Web Service as API and testing
 > |	Lessons Learned	| - Study about banking payment domain
 > |					| - Structure of client-server and API exposure with webservice & ISO8583 standard 
-> |					| - Deployment for user with Linux 
+> |					| - Design authentication, authorization of parners when use API
 
 > **CMMi Level 3** : build software process for company
 
@@ -148,7 +142,6 @@ Senior Application Consultant – Key Member
 > |	Position		| - QA&QC Team lead
 > |	Responsibility	| - Work with senior consultants to get advice and build the process standard, document templates, and tools
 > |	Lessons Learned	| - Study about software development process
-> |					| - Explore how to create a project 
 > |					| - Appraise current process & Build new process
 > |					| - Design new process, create document template, use guide, compliance monitoring
 
@@ -160,10 +153,9 @@ Senior Application Consultant – Key Member
 > |					| - Tools : Maven, Hudson and Sonar, JUnit, JMeter, Spring, Mockito, Selenium IDE |
 > |					| - Environments : Linux/Window, IE/Firefox/Chrome
 > |	Position		| - Teamlead
-> | Responsibility	| - Building a development enviroment with Maven, Hudson and Sonar, Unittest
-> |					| - Create a automation testing tool that can automation re-test UI with data set use Groovy & Selenium library
+> | Responsibility	| - Create a automation testing tool that can automation re-test UI with data set use Groovy & Selenium library
 > |					| - Apply coverage testing plugin on Sonar to check & calculate base on source code of developer 
-> |	Lessons Learned	| - Study about tesing technique & process
+> |	Lessons Learned	| - Study about testing technique & process
 > |					| - How to develơper test source code & how to QC test   
 > |					| - Suggest best practices for developer
 > |					| - Learn scripting
