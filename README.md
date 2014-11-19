@@ -17,6 +17,7 @@ Be part of a committed workforce community where I can utilize my coding skills,
 
 QUALIFICATION HIGHLIGHTS
 ------------------------
+- 3rd position team of IT challenge at college (2004)
 - Best programmer of year (2011)
 - Key member at last companies
 
@@ -58,23 +59,23 @@ January 2014 - Present
 
 Senior Application Consultant - Key Member
 
-> **Fortune** : A gambling online system for Horse racing
-> 
-> 	Size : ~20 people
-> 
-> 	Duration : 1 year
+> **Fortune** : A gambling online system (Horse racing) product support users from other countries 
 
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Maven, Jenkins, J2EE, Spring, GWT, Javascipt, HTML5/CSS  |
-> || - Application server: Glassfish
-> || - Tracker: Redmine
-> || - Source control: SVN
-> || - OS: Linux, Window
-> || - Browsers: IE, Firefox, Safari and Chrome
-> |Position| - Senior Developer (Frontend & Backend)
-> |Responsibility| + Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
-> || - Build and deploy system with Maven, Jenkins and SVN
+> | 				| 																|
+> | :-------------- | :------------------------------------------------------------ |
+> | Skill Set 		| - Program language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
+> |					| - Tools : Tracker: Redmine, CI : Jenkins,Source control: SVN, IDE : Netbeans
+> |					| - Environments : Database : MySQL, Application server: Glassfish, OS: Linux, Window, Browsers: IE, Firefox, Safari and Chrome
+> |Position			| - Senior Developer (Frontend & Backend)
+> |Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
+> |					| - Build and deploy system with Maven, Jenkins and SVN
+> |Lessons Learned	| - Study about betting online domain
+> |					| - Experienced on UI (JS/HTML/CS,GWT) with event base use observer
+> |					| - Multi thread process handle in application
+> |					| - Understand RESTful web service & communicate with client with JSON 
+> |					| - Real-time web technologies use interval, websocket, JMS
+> |					| - Agile development knowledge (unittest, mock, realease early & often, CI, ...)
+> |					| - Re-thinkign about Javascript
 
 **Dong A Bank - Vietnam**
 
@@ -84,100 +85,95 @@ Senior Application Consultant – Key Member
 
 > **E-banking** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
 
->	Size : 15~30 people 
-
-> 	Duration : 2 year
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Program language/Framework: EJB, Web Services, EIP, EJB, Spring, Hibernate/JPA, BPM Workflow(Activity)Eclipse, Sonar, and Hudson  |
-> || - Database: Oracle
-> || - Application server: Tomcat 7
-> || - Tracker: Jira
-> || - Source control: SVN
-> || - OS: Linux, Window
-> || - Browsers: IE, Firefox, Safari and Chrome
-> |Position| - Senior Developer (Backend) & Technique Teamlead
-> |Responsibility| - Do estimation for technical tasks as well as normal coding tasks
-> || - Design and compose technical document
-> || - Building and coding framework
-> || - Review, update, fix defects, and maintain the stable code for the application
-> || - Support team members under the requirement, structure, and framework
-> || - Delivery and deploy the application on client side
-
+> | 						| 								|
+> | :------- ---------------| :--- |
+> | Skill Set 		| - Program language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity)Eclipse, Sonar, and Hudson  |
+> |					| - Tools : Tracker: Jira, CI : Hubson+Sonar, Source control: SVN, IDE : Eclipse
+> |					| - Environments : Database: Oracle, Application server: JBoss AS, OS: Linux, Browsers: IE, Firefox and Chrome
+> | Position		| - Senior Developer (Backend) & Technique Teamlead
+> | Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
+> |					| - Design and compose technical document
+> |					| - Building project with Maven structure, 
+> | 				| - Research and apply Maven, Nexus, Sonar, Unittest, Loadtest for development team 
+> |					| - Building and coding framework
+> |					| - Review, update, fix defects, and maintain the stable code for the application
+> |					| - Support team members under the requirement, structure, and framework
+> |					| - Delivery and deploy the application on client side
+> |Lessons Learned	| - Study about banking domain
+> |					| - Structure of large system with module, communicate together by remote protocols & event (EIP)
+> |					| - Quality of code by use unittest, source code checktype (Sonar), test coverage, auto build, 
+> |					| - Manage dependency libraries with Maven, Nexus
+> |					| - Deployment process and version control
+> |					| - Estimate task and assign, improve management skill
 
 > **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card. Besides, individual customers could use normal sim with 3G network to do transactions that have been registered using these services such as activated the core purse account, reset password, transferred money from an electronic purse to other electronic purses, checked balance, checked account history, electronic recharge money, paid bill, and purchased prepaid card.
 
->	Size : ~10 people 
-
-> 	Duration : January – December 2012
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Program language/Framework: Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service, Soap UI |
-> || - Database: Oracle & PLSQL
-> || - Application server: Tomcat 7
-> || - Tracker: Jira
-> || - Source control: SVN
-> || - OS: Linux, Window
-> || - Browsers: IE, Firefox
-> |Position| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |Responsibility| - Do estimation for technical tasks as well as normal coding tasks
-> || - Design and compose technical document
-> || - Building and coding framework
-> || - Review, update, fix defects, and maintain the stable code for the application
-> || - Support team members under the requirement, structure, and framework
-> || - Delivery and deploy the application on client side
-> || - Connect & Authenticate on partner connection
-> || - Make Web Service as API and testing
+> |						 | 								|
+> | :------------------- | :--------------------------- |
+> | Skill Set 		| - Program language/Framework: Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service, Soap UI |
+> |					| - Tools : Tracker: Jira, Source control: SVN, IDE : JBuilder
+> |					| - Environments : Database: Oracle & PLSQL, Application server: Tomcat 7, OS: Linux, Window, Browsers: IE, Firefox
+> |Position			| - Senior Developer (Frontend & Backend) & Technique Teamlead
+> |Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
+> |					| - Design and compose technical document
+> |					| - Building and coding framework
+> |					| - Review, update, fix defects, and maintain the stable code for the application
+> |					| - Support team members under the requirement, structure, and framework
+> |					| - Delivery and deploy the application on client side
+> |					| - Connect & Authenticate on partner connection
+> |					| - Make Web Service as API and testing
+> |	Lessons Learned	| - Study about banking payment domain
+> |					| - Structure of client-server and API exposure with webservice & ISO8583 standard 
+> |					| - Deployment for user with Linux 
+> |					| - Design authentication, authorization of parners when use API 
 
 > **Banking on SIM** : same service as ebanking project but can process on mobile SIM card
 
->	Size : ~5 people 
-
-> 	Duration : 3 months
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Program language/Framework: ISO8583, Socket, Java, RMI, Web service |
-> || - Database: Oracle & PLSQL
-> || - Application server: Tomcat 7
-> || - Source control: SVN
-> || - OS: Linux, Window
-> || - Enverionment : console
-> |Position| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |Responsibility| - Do estimation for technical tasks as well as normal coding tasks
-> || - Design and compose technical document
-> || - Building and coding framework
-> || - Build and deploy system with Maven, Hudson and Sonar
-> || - Build framework testing for both Unit test and a testing system
+> | 				| 											|
+> | :-------------- | :-------------------------------- 	|
+> | Skill Set 		| - Program language/Framework: ISO8583, Socket, Java, RMI, Web service |
+> |					| - Tools : Source control: SVN,Enverionment : console, IDE : Eclipse
+> |					| - Environments : Database: Oracle & PLSQL, Application server: Java socket, OS: Linux  
+> | Position		| - Senior Developer (Frontend & Backend) & Technique Teamlead
+> | Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
+> |					| - Design and compose technical document
+> |					| - Building and coding framework
+> |					| - Build and deploy system with Maven, Hudson and Sonar
+> |					| - Build framework testing for both Unit test and a testing system
+> |	Lessons Learned	| - Study about SIM application domain
+> |					| - Structure of client-server and API exposure with socket & ISO8583 standard 
+> |					| - Deployment for user with Linux 
+> |					| - Design authentication, authorization of parners when use API throw socket
+> |					| - Merge banking process with application on SIM
 
 > **CMMi Level 3** : build software process for company
 
->	Size : company 
-
-> 	Duration : January 2013 – December 2013
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Define and design the process standard, document templates, and tools |
-> |Position| - QA&QC Team lead
-> |Responsibility| - Work with senior consultants to get advice and build the process standard, document templates, and tools
+> | 				|							 |
+> | :-------------- | :----------------------------------- |
+> | Skill Set 		| - Define and design the process standard, document templates, and tools |
+> |					| - Tools : Alfresco DMS, Astah, Microsoft Word, Excel
+> |	Position		| - QA&QC Team lead
+> |	Responsibility	| - Work with senior consultants to get advice and build the process standard, document templates, and tools
+> |	Lessons Learned	| - Study about software development process
+> |					| - Explore how to create a project 
+> |					| - Appraise current process & Build new process
+> |					| - Design new process, create document template, use guide, compliance monitoring
 
 > **Internal Tesing App** : Building coding and testing a framework standard
 
->	Size : ~5 people 
-
-> 	Duration : 2 months
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Maven, Hudson and Sonar, Junit, Jmeter, Spring, Mockito, Selenium |
-> || - Source control: SVN
-> || - OS: Linux, Window
-> || - IE, Firefox, and Chorme
-> |Position| - Teamlead
-> |Responsibility| - Build and deploy system with Maven, Hudson and Sonar
-> || - Build framework testing for both Unit test (DEV) and a automation testing (QC) system
+> | 				|							 |
+> | :-------------- | :--- |
+> | Skill Set 		| - Program language/Framework : Java Swing, Groovy, Selenium
+> |					| - Tools : Maven, Hudson and Sonar, JUnit, JMeter, Spring, Mockito, Selenium IDE |
+> |					| - Environments : OS: Linux, Window, Browsers: IE, Firefox, Chrome
+> |	Position		| - Teamlead
+> | Responsibility	| - Building a development enviroment with Maven, Hudson and Sonar, Unittest
+> |					| - Create a automation testing tool that can automation re-test UI with data set use Groovy & Selenium library
+> |					| - Apply coverage testing plugin on Sonar to check & calculate base on source code of developer 
+> |	Lessons Learned	| - Study about tesing technique & process
+> |					| - How to develơper test source code & how to QC test   
+> |					| - Suggest best practices for developer
+> |					| - Learn scripting
 
 **Manulife Insurance Vietnam**
 
@@ -187,23 +183,19 @@ Analysis Programmer
 
 > Enhancement and Maintain CAS : developing system is called as CAS (Client Admin System) on Oracle PLSQL
 
-> 
-> 	Size : ~20 people
-> 
-> 	Duration : 1 year
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Java, PLSQL, HTML, Foxpro  |
-> || - Application server: Oracle Application Server
-> || - Source control: share directories
-> || - OS: Window
-> || - Browsers: IE
-> |Position| - Senior Developer (Frontend & Backend)
-> |Responsibility| - Develop and maintain CAS system as keeping code version, making build following code version, and deploy Foxpro application for agency
-> || - Do extra enhancement as Oracle Form and Report
-> || - Upgrade System CAS to Oracle 10G
-> || - Upgrade Agency Website with iBM Lotus Notes
+> | 				|				 |
+> | :-------------- | :--- |
+> | Skill Set 		| - Program language/Framework : Java, PLSQL, HTML, Foxpro  |
+> |					| - Tools : Source control: share directories, Tracker : Excel, IDE : JDeveloper + Oracle Form & Report 
+> |					| - Environments : Application server: Oracle Application Server, OS: Window, Browsers: IE
+> |	Position		| - Senior Developer (Frontend & Backend)
+> |	Responsibility	| - Develop and maintain CAS system as keeping code version, making build following code version, and deploy Foxpro application for agency
+> |					| - Do extra enhancement as Oracle Form and Report
+> |					| - Upgrade System CAS to Oracle 10G
+> |					| - Upgrade Agency Website with IBM Lotus Notes
+> |	Lessons Learned	| - Study about insurance domain knowlege
+> |					| - Experience with Oracle PLSQL, UI with Oracle Form, data present with Oracle Report
+> |					| - Professionism with a international company
 
 **Atom Software Solution - Vietnam**
 
@@ -213,44 +205,32 @@ Developer
 
 > **Hospital Management ** : uses Rich Client (Curl) to build system like desktop app
 
-> 
-> 	Size : ~10 people
-> 
-> 	Duration : 1 year
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Java backend  |
-> || - Database: MySQL
-> || - Application server: Tomcat
-> || - Tracker: Dotproject
-> || - Source control: SVN
-> || - OS: Windows & Linux
-> || - Browsers: IE
-> |Position| - Developer backend
-> |Responsibility| - Develop backend and database access on Java>
-> || - Research from existing source code to figure out the business rules
+> | 				|			 |
+> | :-------------- | :--- |
+> | Skill Set		| - Program language/Framework :  Java backend  |
+> |					| - Tools : Tracker: Dotproject, Source control: SVN, 
+> |					| - Environments : Database: MySQL, Application server: Tomcat, Browsers: IE
+> |	Position		| - Developer backend
+> |	Responsibility	| - Develop backend and database access on Java>
+> |					| - Research from existing source code to figure out the business rules
+> |	Lessons Learned	| - Study about management application
+> |					| - Experience with Java backend
+> |					| - Learn Japanese
 
 > **Company’s website** : build a website for company 
 
-> 
-> 	Size : ~10 people
-> 
-> 	Duration : 2 months
-
-> | | |
-> | :------- | :--- |
-> | Skill Set Utilized | -   Java, JSP/Servlet, Struts  |
-> || - Database: MySQL
-> || - Application server: Tomcat
-> || - Tracker: Dotproject
-> || - Source control: SVN
-> || - OS: Windows & Linux
-> || - Browsers: IE, Firefox
-> |Position| - Developer frontend & backend
-> |Responsibility| - Research Struts framework
-> || - Design and structure the website
-> || - Develop website with Struts, JSP
+> | 				|			 |
+> | :-------------- | :--- |
+> | Skill Set 		| - Program language/Framework :  Java, JSP/Servlet, HTML/CSS/Javascript, Struts  |
+> |					| - Tools : Tracker: Dotproject, Source control: SVN
+> |					| - Environments : Database: MySQL, Web server: Tomcat, OS: Windows & Linux, Browsers: IE, Firefox
+> | Position		| - Developer frontend & backend
+> |	Responsibility	| - Research Struts framework
+> |					| - Design and structure the website
+> |					| - Develop website with Struts, JSP
+> |	Lessons Learned	| - Study about web application
+> |					| - Experience with design with HTML/CSS
+> |					| - Learn Javascript
 
 **Pissoft - Vietnam**
 
@@ -263,3 +243,5 @@ Associate Developer
 > Develop school management application using Swing
 
 > Research JSF, Hibernate for development
+
+> Lessons Learned : First company, learning more about software development, presentation, documentation, learn by myself and apply new technique to project
