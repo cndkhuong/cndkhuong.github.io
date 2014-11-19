@@ -99,13 +99,13 @@ Teacher
 
 Senior Application Consultant – Key Member
 
-> **E-banking** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
+> **E-banking (Web/SIM Card)** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
 
 > | 						| 								|
 > | :----------------------| :--- |
-> | Skill Set 		| - Program language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity)Eclipse, Sonar, and Hudson  |
-> |					| - Tools : Tracker: Jira, CI : Hubson+Sonar, Source control: SVN, IDE : Eclipse
-> |					| - Environments : Database: Oracle, Application server: JBoss AS, OS: Linux, Browsers: IE, Firefox and Chrome
+> | Skill Set 		| - Program language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity), ISO8583, Web Service, Socket
+> |					| - Tools : Tracker: Jira, CI : Hubson+Sonar, Source control: SVN, IDE : Eclipse, Soap UI
+> |					| - Environments : Database: Oracle, Application server: JBoss AS, Console, OS: Linux, Browsers: IE, Firefox and Chrome
 > | Position		| - Senior Developer (Backend) & Technique Teamlead
 > | Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
 > |					| - Design and compose technical document
@@ -115,22 +115,25 @@ Senior Application Consultant – Key Member
 > |					| - Review, update, fix defects, and maintain the stable code for the application
 > |					| - Support team members under the requirement, structure, and framework
 > |					| - Delivery and deploy the application on client side
-> |Lessons Learned	| - Study about banking domain
+> |Lessons Learned	| - Study about banking domain, SIM application
 > |					| - Structure of large system with module, communicate together by remote protocols & event (EIP)
+> |					| - Structure of client-server and API exposure with socket, web service & ISO8583 standard 
 > |					| - Quality of code by use unittest, source code checktype (Sonar), test coverage, auto build, 
 > |					| - Manage dependency libraries with Maven, Nexus
-> |					| - Deployment process and version control
+> |					| - Deployment process and version control 
+> |					| - Design authentication, authorization of parners when use API 
 > |					| - Estimate task and assign, improve management skill
+> |					| - Merge banking process with application on SIM
 
 > **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card. Besides, individual customers could use normal sim with 3G network to do transactions that have been registered using these services such as activated the core purse account, reset password, transferred money from an electronic purse to other electronic purses, checked balance, checked account history, electronic recharge money, paid bill, and purchased prepaid card.
 
 > |						 | 								|
 > | :------------------- | :--------------------------- |
-> | Skill Set 		| - Program language/Framework: Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service, Soap UI |
-> |					| - Tools : Tracker: Jira, Source control: SVN, IDE : JBuilder
+> | Skill Set 		| - Program language/Framework: Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service
+> |					| - Tools : Tracker: Jira, Source control: SVN, IDE : JBuilder, Soap UI
 > |					| - Environments : Database: Oracle & PLSQL, Application server: Tomcat 7, OS: Linux, Window, Browsers: IE, Firefox
-> |Position			| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
+> |	Position		| - Senior Developer (Frontend & Backend) & Technique Teamlead
+> |	Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
 > |					| - Design and compose technical document
 > |					| - Building and coding framework
 > |					| - Review, update, fix defects, and maintain the stable code for the application
@@ -141,26 +144,6 @@ Senior Application Consultant – Key Member
 > |	Lessons Learned	| - Study about banking payment domain
 > |					| - Structure of client-server and API exposure with webservice & ISO8583 standard 
 > |					| - Deployment for user with Linux 
-> |					| - Design authentication, authorization of parners when use API 
-
-> **Banking on SIM** : same service as ebanking project but can process on mobile SIM card
-
-> | 				| 											|
-> | :-------------- | :-------------------------------- 	|
-> | Skill Set 		| - Program language/Framework: ISO8583, Socket, Java, RMI, Web service |
-> |					| - Tools : Source control: SVN,Enverionment : console, IDE : Eclipse
-> |					| - Environments : Database: Oracle & PLSQL, Application server: Java socket, OS: Linux  
-> | Position		| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> | Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
-> |					| - Design and compose technical document
-> |					| - Building and coding framework
-> |					| - Build and deploy system with Maven, Hudson and Sonar
-> |					| - Build framework testing for both Unit test and a testing system
-> |	Lessons Learned	| - Study about SIM application domain
-> |					| - Structure of client-server and API exposure with socket & ISO8583 standard 
-> |					| - Deployment for user with Linux 
-> |					| - Design authentication, authorization of parners when use API throw socket
-> |					| - Merge banking process with application on SIM
 
 > **CMMi Level 3** : build software process for company
 > | 				|							 |
