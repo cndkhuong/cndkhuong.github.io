@@ -66,16 +66,41 @@ Senior Application Consultant - Key Member
 > | Skill Set 		| - Program language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
 > |					| - Tools : Tracker: Redmine, CI : Jenkins,Source control: SVN, IDE : Netbeans
 > |					| - Environments : Database : MySQL, Application server: Glassfish, OS: Linux, Window, Browsers: IE, Firefox, Safari and Chrome
-> |Position			| - Senior Developer (Frontend & Backend)
-> |Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
+> |	Position			| - Senior Developer (Frontend & Backend)
+> |	Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
 > |					| - Build and deploy system with Maven, Jenkins and SVN
-> |Lessons Learned	| - Study about betting online domain
+> |	Lessons Learned	| - Study about betting online domain
 > |					| - Experienced on UI (JS/HTML/CS,GWT) with event base use observer
 > |					| - Multi thread process handle in application
 > |					| - Understand RESTful web service & communicate with client with JSON 
 > |					| - Real-time web technologies use interval, websocket, JMS
 > |					| - Agile development knowledge (unittest, mock, realease early & often, CI, ...)
 > |					| - Re-thinkign about Javascript
+
+
+**IT Center of HCMC University of Natural Sciences - Vietnam**
+
+February 2010 to end of 2013
+
+Teacher
+
+> **Java core & J2EE** : teach both Java core & Java Web for students
+
+> | 						| 								|
+> | :------- ---------------| :--- |
+> | Skill Set 		| - Program language/Framework: Java  |
+> |					| - Tools : Microsoft Power point, Remote desktop
+> |					| - Environments : Window
+> | Position		| - Teacher
+> | Responsibility	| - Plan structure of program
+> |					| - Lesson compose both slide and laps
+> |					| - Make student programming step by step
+> |					| - Present and show up source code for every lesson
+> | 				| - Make exercises for students
+> |Lessons Learned	| - Change new my mind about programming ,teching, sharing with everybody
+> |					| - Improve interpersonal skills
+> |					| - Understand the important of presentation skill 
+> |					| - Try to make source code easy to understand
 
 **Dong A Bank - Vietnam**
 
