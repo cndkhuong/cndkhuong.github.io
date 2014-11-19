@@ -109,30 +109,16 @@ Senior Application Consultant – Key Member
 > |					| - Environments : Database: Oracle, Application server: JBoss AS, Console, OS: Linux, Browsers: IE, Firefox and Chrome
 > | Position		| - Senior Developer (Backend) & Technique Teamlead
 > | Responsibility	| - Design system structure 
-> | 				| - Build & support Maven, Nexus, Sonar, Unittest, Loadtest for development team 
+> | 				| - Build & support Maven, Nexus, Sonar, Unittest, Loadtest for development team
+> |					| - Building and coding framework
 > |					| - Review, update, fix defects, and maintain the stable code for the application
-> |	Lessons Learned	| - Study about banking domain, SIM application
+> |					| - Connect & authenticate on partner connection
+> |	Lessons Learned	| - Study about banking domain, payment method & ISO8583 standard transaction 
 > |					| - Structure of large system with module, communicate together by remote protocols & event (EIP)
 > |					| - Structure of client-server and API exposure with socket, web service & ISO8583 standard 
 > |					| - Quality of code by use unittest, source code checktype (Sonar), test coverage, auto build, 
 > |					| - Manage dependency libraries with Maven, Nexus 
 > |					| - Estimate task and assign, improve management skill
-
-> **ECPAY** : likes an Electronic Payment Gateway by which providers and partners could execute their customers’ transactions such as transfer money from an electronic purse to other electronic purses, recharge money, paid water bills or electronic bills, and purchase prepaid card.
-
-> |						 | 								|
-> | :------------------- | :--------------------------- |
-> | Skill Set 		| - Language/Framework: PLSQL, Java, Spring, Seam, RMI, HTML, CSS, JavaScript, ISO8583, Web Service
-> |					| - Tools : Jira, SVN, JBuilder/Soap UI
-> |					| - Environments : Oracle, Application server: Tomcat 7, OS: Linux, Window, Browsers: IE, Firefox
-> |	Position		| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |	Responsibility	| - Design and compose technical document
-> |					| - Building and coding framework
-> |					| - Review, update, fix defects, and maintain the stable code for the application
-> |					| - Connect & Authenticate on partner connection
-> |					| - Make Web Service as API and testing
-> |	Lessons Learned	| - Study about banking payment domain
-> |					| - Structure of client-server and API exposure with webservice & ISO8583 standard 
 > |					| - Design authentication, authorization of parners when use API
 
 > **CMMi Level 3** : build software process for company
