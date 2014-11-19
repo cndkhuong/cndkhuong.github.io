@@ -181,20 +181,20 @@ Analysis Programmer
 
 Developer
 
-**Hospital Management** : uses Rich Client (Curl) to build system like desktop app
+> **Hospital Management** : uses Rich Client (Curl) to build system like desktop app
 > * Develop backend with Java
 > *	Lessons Learned	:
-> - Study about management application
-> - Experience with Java backend
-> - Learn Japanese
+ - Study about management application
+ - Experience with Java backend
+ - Learn Japanese
 
-**Company’s website** : build a website for company 
+> **Company’s website** : build a website for company 
 
 > * Build company website with Struts framework
 > *	Lessons Learned	:
-> - Study about web application
-> - Experience with design with HTML/CSS
-> - Learn Javascript
+ - Study about web application
+ - Experience with design with HTML/CSS
+ - Learn Javascript
 
 **Pissoft - Vietnam** (2005 – 2006)
 
