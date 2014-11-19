@@ -137,28 +137,17 @@ Senior Application Consultant – Key Member
 
 > **CMMi Level 3** : build software process for company
 
-> | 				|							 |
-> | :-------------- | :----------------------------------- |
-> | Skill Set 		| - Define and design the process standard, document templates, and tools |
+> | 				|							 			|
+> | :-------------- | :------------------------------------ |
+> | Skill Set 		| - Language/Framework : Java Swing, Groovy, Selenium |
 > |					| - Tools : Alfresco DMS, Astah, Microsoft Word, Excel
 > |	Position		| - QA&QC Team lead
 > |	Responsibility	| - Work with senior consultants to get advice and build the process standard, document templates, and tools
-> |	Lessons Learned	| - Study about software development process
+> |					| - Apply coverage testing plugin on Sonar to check & calculate base on source code of developer
+> |					| - Create a automation testing tool that can automation re-test UI with data set use Groovy & Selenium library
+> |	Lessons Learned	| - Study about software development process & testing techniques
 > |					| - Appraise current process & Build new process
 > |					| - Design new process, create document template, use guide, compliance monitoring
-
-> **Internal Tesing App** : Building coding and testing a framework standard
-
-> | 				|							 |
-> | :-------------- | :--- |
-> | Skill Set 		| - Language/Framework : Java Swing, Groovy, Selenium
-> |					| - Tools : Maven, Hudson and Sonar, JUnit, JMeter, Spring, Mockito, Selenium IDE |
-> |					| - Environments : Linux/Window, IE/Firefox/Chrome
-> |	Position		| - Teamlead
-> | Responsibility	| - Create a automation testing tool that can automation re-test UI with data set use Groovy & Selenium library
-> |					| - Apply coverage testing plugin on Sonar to check & calculate base on source code of developer 
-> |	Lessons Learned	| - Study about testing technique & process
-> |					| - How to develơper test source code & how to QC test   
 > |					| - Suggest best practices for developer
 > |					| - Learn scripting
 
