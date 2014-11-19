@@ -87,7 +87,7 @@ Teacher
 > **Java core & J2EE** : teach both Java core & Java Web for students
 
 > | 						| 								|
-> | :------- ---------------| :--- |
+> | :----------------------| :--------- |
 > | Skill Set 		| - Program language/Framework: Java  |
 > |					| - Tools : Microsoft Power point, Remote desktop
 > |					| - Environments : Window
@@ -96,7 +96,7 @@ Teacher
 > |					| - Lesson compose both slide and laps
 > |					| - Make student programming step by step
 > |					| - Present and show up source code for every lesson
-> | 				| - Make exercises for students
+> | 				| - Make exercises for student 
 > |Lessons Learned	| - Change new my mind about programming ,teching, sharing with everybody
 > |					| - Improve interpersonal skills
 > |					| - Understand the important of presentation skill 
@@ -111,7 +111,7 @@ Senior Application Consultant – Key Member
 > **E-banking** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
 
 > | 						| 								|
-> | :------- ---------------| :--- |
+> | :----------------------| :--- |
 > | Skill Set 		| - Program language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity)Eclipse, Sonar, and Hudson  |
 > |					| - Tools : Tracker: Jira, CI : Hubson+Sonar, Source control: SVN, IDE : Eclipse
 > |					| - Environments : Database: Oracle, Application server: JBoss AS, OS: Linux, Browsers: IE, Firefox and Chrome
