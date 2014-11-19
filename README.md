@@ -34,7 +34,7 @@ ACHIEVEMENTS
 TECHNICAL SKILLS
 -----------------------
 - Language and Script: Java, Javascipt, Ruby...
-- Database: Oracle, MySQL, Postgres, NoSQL
+- Database: Oracle, MySQL, Postgres, DB2, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
 - Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
 - Methodology: RUP & Agile(Scrum)
