@@ -59,14 +59,14 @@ January 2014 - Present
 
 Senior Application Consultant - Key Member
 
-> **Fortune** : A gambling online system (Horse racing) product support users from other countries 
+> **Fortune** : A betting exchange system 
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
 > | Skill Set 		| - Program language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
 > |					| - Tools : Tracker: Redmine, CI : Jenkins,Source control: SVN, IDE : Netbeans
 > |					| - Environments : Database : MySQL, Application server: Glassfish, OS: Linux, Window, Browsers: IE, Firefox, Safari and Chrome
-> |	Position			| - Senior Developer (Frontend & Backend)
+> |	Position		| - Senior Developer (Frontend & Backend)
 > |	Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
 > |					| - Build and deploy system with Maven, Jenkins and SVN
 > |	Lessons Learned	| - Study about betting online domain
@@ -172,7 +172,6 @@ Senior Application Consultant – Key Member
 > |					| - Merge banking process with application on SIM
 
 > **CMMi Level 3** : build software process for company
-
 > | 				|							 |
 > | :-------------- | :----------------------------------- |
 > | Skill Set 		| - Define and design the process standard, document templates, and tools |
@@ -200,10 +199,7 @@ Senior Application Consultant – Key Member
 > |					| - Suggest best practices for developer
 > |					| - Learn scripting
 
-**Manulife Insurance Vietnam**
-
-2007 – 2010
-
+**Manulife Insurance Vietnam** 2007 – 2010
 Analysis Programmer 
 
 > Enhancement and Maintain CAS : developing system is called as CAS (Client Admin System) on Oracle PLSQL
@@ -213,19 +209,11 @@ Analysis Programmer
 > | Skill Set 		| - Program language/Framework : Java, PLSQL, HTML, Foxpro  |
 > |					| - Tools : Source control: share directories, Tracker : Excel, IDE : JDeveloper + Oracle Form & Report 
 > |					| - Environments : Application server: Oracle Application Server, OS: Window, Browsers: IE
-> |	Position		| - Senior Developer (Frontend & Backend)
-> |	Responsibility	| - Develop and maintain CAS system as keeping code version, making build following code version, and deploy Foxpro application for agency
-> |					| - Do extra enhancement as Oracle Form and Report
-> |					| - Upgrade System CAS to Oracle 10G
-> |					| - Upgrade Agency Website with IBM Lotus Notes
 > |	Lessons Learned	| - Study about insurance domain knowlege
 > |					| - Experience with Oracle PLSQL, UI with Oracle Form, data present with Oracle Report
 > |					| - Professionism with a international company
 
-**Atom Software Solution - Vietnam**
-
-2005 – 2007
-
+**Atom Software Solution - Vietnam** (2005 – 2007)
 Developer
 
 > **Hospital Management ** : uses Rich Client (Curl) to build system like desktop app
@@ -235,38 +223,24 @@ Developer
 > | Skill Set		| - Program language/Framework :  Java backend  |
 > |					| - Tools : Tracker: Dotproject, Source control: SVN, 
 > |					| - Environments : Database: MySQL, Application server: Tomcat, Browsers: IE
-> |	Position		| - Developer backend
-> |	Responsibility	| - Develop backend and database access on Java>
-> |					| - Research from existing source code to figure out the business rules
 > |	Lessons Learned	| - Study about management application
 > |					| - Experience with Java backend
 > |					| - Learn Japanese
 
 > **Company’s website** : build a website for company 
-
 > | 				|			 |
 > | :-------------- | :--- |
 > | Skill Set 		| - Program language/Framework :  Java, JSP/Servlet, HTML/CSS/Javascript, Struts  |
 > |					| - Tools : Tracker: Dotproject, Source control: SVN
 > |					| - Environments : Database: MySQL, Web server: Tomcat, OS: Windows & Linux, Browsers: IE, Firefox
-> | Position		| - Developer frontend & backend
-> |	Responsibility	| - Research Struts framework
-> |					| - Design and structure the website
-> |					| - Develop website with Struts, JSP
 > |	Lessons Learned	| - Study about web application
 > |					| - Experience with design with HTML/CSS
 > |					| - Learn Javascript
 
-**Pissoft - Vietnam**
-
-2005 – 2006
-
+**Pissoft - Vietnam** (2005 – 2006)
 Associate Developer
 
 > Develop and research JSF, Hibernate
-
 > Develop school management application using Swing
-
 > Research JSF, Hibernate for development
-
 > Lessons Learned : First company, learning more about software development, presentation, documentation, learn by myself and apply new technique to project
