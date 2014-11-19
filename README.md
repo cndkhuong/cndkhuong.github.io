@@ -29,14 +29,15 @@ ACHIEVEMENTS
 - Work with senior consultants to build CMMI3 and Agile methodology for company
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
 - Over eight years’ experience in Software Development on Java and Oracle
+- Interest learn new technologies
 
 TECHNICAL SKILLS
 -----------------------
-- Language and Script: Java, Javascipt, Ruby, PHP
+- Language and Script: Java, Javascipt, Ruby...
 - Database: Oracle, MySQL, Postgres, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
 - Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
-- Methodology: RUP & Scrum
+- Methodology: RUP & Agile(Scrum)
 - Office: Microsoft Office – Word, Excel, Power Point, Outlook, and Visio
 - Operation system : Windows, Linux, Android
 - Browsers: IE, Firefox, Safari and Chrome
