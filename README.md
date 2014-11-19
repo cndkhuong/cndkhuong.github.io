@@ -53,10 +53,7 @@ TRAININGS ATTENDED
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
-**Quadrant Technologies – Singapore**
-
-January 2014 - Present
-
+**Quadrant Technologies – Singapore** (January 2014 - Present)
 Senior Application Consultant - Key Member
 
 > **Fortune** : A betting exchange system 
@@ -78,9 +75,7 @@ Senior Application Consultant - Key Member
 > |					| - Re-thinkign about Javascript
 
 
-**IT Center of HCMC University of Natural Sciences - Vietnam**
-
-February 2010 to end of 2013
+**IT Center of HCMC University of Natural Sciences - Vietnam** (2012 to end of 2013)
 
 Teacher
 
@@ -92,19 +87,15 @@ Teacher
 > |					| - Tools : Microsoft Power point, Netop School, IDE : Netbeans, Eclipse, Notepad++, Command line
 > |					| - Environments : Window
 > | Position		| - Teacher
-> | Responsibility	| - Plan structure of program
-> |					| - Lesson compose both slide and laps
-> |					| - Make student programming step by step
+> | Responsibility	| - Plan structure of program , lesson compose both slide and laps
+> |					| - Make student programming step by step, make exercises for student 
 > |					| - Present and show up source code for every lesson
-> | 				| - Make exercises for student 
 > |Lessons Learned	| - Change new my mind about programming ,teching, sharing with everybody
 > |					| - Improve interpersonal skills
 > |					| - Understand the important of presentation skill 
 > |					| - Try to make source code easy to understand
 
-**Dong A Bank - Vietnam**
-
-February 2010 to end of 2013
+**Dong A Bank - Vietnam** (February 2010 to end of 2013)
 
 Senior Application Consultant – Key Member
 
