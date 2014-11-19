@@ -55,6 +55,7 @@ TRAININGS ATTENDED
 PROFESSIONAL EXPERIENCES
 ------------------------------------
 **Quadrant Technologies – Singapore** (January 2014 - Present)
+
 Senior Application Consultant - Key Member
 
 > **Fortune** : A betting exchange system 
@@ -162,6 +163,7 @@ Senior Application Consultant – Key Member
 > |					| - Learn scripting
 
 **Manulife Insurance Vietnam** 2007 – 2010
+
 Analysis Programmer 
 
 > Enhancement and Maintain CAS : developing system is called as CAS (Client Admin System) on Oracle PLSQL
@@ -176,34 +178,28 @@ Analysis Programmer
 > |					| - Professionism with a international company
 
 **Atom Software Solution - Vietnam** (2005 – 2007)
+
 Developer
 
-> **Hospital Management ** : uses Rich Client (Curl) to build system like desktop app
+**Hospital Management** : uses Rich Client (Curl) to build system like desktop app
+> * Develop backend with Java
+> *	Lessons Learned	:
+> - Study about management application
+> - Experience with Java backend
+> - Learn Japanese
 
-> | 				|			 |
-> | :-------------- | :--- |
-> | Skill Set		| - Language/Framework :  Java backend  |
-> |					| - Tools : Dotproject, SVN, 
-> |					| - Environments : MySQL, Tomcat, IE
-> |	Lessons Learned	| - Study about management application
-> |					| - Experience with Java backend
-> |					| - Learn Japanese
+**Company’s website** : build a website for company 
 
-> **Company’s website** : build a website for company 
-
-> | 				|			 |
-> | :---------------| :--- |
-> | Skill Set 		| - Language/Framework :  Java, JSP/Servlet, HTML/CSS/Javascript, Struts  |
-> |					| - Tools : Dotproject, SVN
-> |					| - Environments : MySQL, Tomcat,Windows,IE/Firefox
-> |	Lessons Learned	| - Study about web application
-> |					| - Experience with design with HTML/CSS
-> |					| - Learn Javascript
+> * Build company website with Struts framework
+> *	Lessons Learned	:
+> - Study about web application
+> - Experience with design with HTML/CSS
+> - Learn Javascript
 
 **Pissoft - Vietnam** (2005 – 2006)
+
 Associate Developer
 
-> * Develop and research JSF, Hibernate
 > * Develop school management application using Swing
 > * Research JSF, Hibernate for development
 > * Lessons Learned : First company, learning more about software development, presentation, documentation, learn by myself and apply new technique to project
