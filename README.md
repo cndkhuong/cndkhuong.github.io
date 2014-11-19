@@ -175,7 +175,7 @@ Analysis Programmer
 > |					| - Environments : Oracle Application Server, Window, IE
 > |	Lessons Learned	| - Study about insurance domain knowlege
 > |					| - Experience with Oracle PLSQL, UI with Oracle Form, data present with Oracle Report
-> |					| - Professionism with a international company
+> |					| - Professionalism with a international company
 
 **Atom Software Solution - Vietnam** (2005 – 2007)
 
