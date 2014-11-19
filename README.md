@@ -61,9 +61,9 @@ Senior Application Consultant - Key Member
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Program language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
+> | Skill Set 		| - Language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
 > |					| - Tools : Redmine, Jenkins, SVN, Netbeans
-> |					| - Environments : Database : MySQL, Application server: Glassfish, OS: Linux, Window, Browsers: IE, Firefox, Safari and Chrome
+> |					| - Environments : MySQL, Glassfish, Linux/Window, IE/Firefox/Safari/Chrome
 > |	Position		| - Senior Developer (Frontend & Backend)
 > |	Responsibility	| - Frontend with HTML/CSS/Javascript & GWT, Backend with Spring & J2EE
 > |					| - Build and deploy system with Maven, Jenkins and SVN
@@ -77,7 +77,6 @@ Senior Application Consultant - Key Member
 
 
 **IT Center of HCMC University of Natural Sciences - Vietnam** (2012 to end of 2013)
-
 Teacher
 
 > **Java core & J2EE** : teach both Java core & Java Web for students
@@ -97,7 +96,6 @@ Teacher
 > |					| - Try to make source code easy to understand
 
 **Dong A Bank - Vietnam** (February 2010 to end of 2013)
-
 Senior Application Consultant – Key Member
 
 > **E-banking (Web/SIM Card)** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and phone….its functions are transfer accounts, payment bills via banking system and other systems. Using techniques for development as EJB, Web Services, EIP, EJB, Spring, and Hibernate/JPA
@@ -108,15 +106,13 @@ Senior Application Consultant – Key Member
 > |					| - Tools : Jira, Hubson+Sonar, SVN, Eclipse/Soap UI
 > |					| - Environments : Database: Oracle, Application server: JBoss AS, Console, OS: Linux, Browsers: IE, Firefox and Chrome
 > | Position		| - Senior Developer (Backend) & Technique Teamlead
-> | Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
-> |					| - Design and compose technical document
-> |					| - Building project with Maven structure, 
+> | Responsibility	| - Design and compose technical document 
 > | 				| - Research and apply Maven, Nexus, Sonar, Unittest, Loadtest for development team 
 > |					| - Building and coding framework
 > |					| - Review, update, fix defects, and maintain the stable code for the application
 > |					| - Support team members under the requirement, structure, and framework
 > |					| - Delivery and deploy the application on client side
-> |Lessons Learned	| - Study about banking domain, SIM application
+> |	Lessons Learned	| - Study about banking domain, SIM application
 > |					| - Structure of large system with module, communicate together by remote protocols & event (EIP)
 > |					| - Structure of client-server and API exposure with socket, web service & ISO8583 standard 
 > |					| - Quality of code by use unittest, source code checktype (Sonar), test coverage, auto build, 
@@ -134,12 +130,9 @@ Senior Application Consultant – Key Member
 > |					| - Tools : Jira, SVN, JBuilder/Soap UI
 > |					| - Environments : Oracle, Application server: Tomcat 7, OS: Linux, Window, Browsers: IE, Firefox
 > |	Position		| - Senior Developer (Frontend & Backend) & Technique Teamlead
-> |	Responsibility	| - Do estimation for technical tasks as well as normal coding tasks
-> |					| - Design and compose technical document
+> |	Responsibility	| - Design and compose technical document
 > |					| - Building and coding framework
 > |					| - Review, update, fix defects, and maintain the stable code for the application
-> |					| - Support team members under the requirement, structure, and framework
-> |					| - Delivery and deploy the application on client side
 > |					| - Connect & Authenticate on partner connection
 > |					| - Make Web Service as API and testing
 > |	Lessons Learned	| - Study about banking payment domain
@@ -147,6 +140,7 @@ Senior Application Consultant – Key Member
 > |					| - Deployment for user with Linux 
 
 > **CMMi Level 3** : build software process for company
+
 > | 				|							 |
 > | :-------------- | :----------------------------------- |
 > | Skill Set 		| - Define and design the process standard, document templates, and tools |
