@@ -89,7 +89,7 @@ Teacher
 > | 						| 								|
 > | :----------------------| :--------- |
 > | Skill Set 		| - Program language/Framework: Java  |
-> |					| - Tools : Microsoft Power point, Remote desktop
+> |					| - Tools : Microsoft Power point, Netop School, IDE : Netbeans, Eclipse, Notepad++, Command line
 > |					| - Environments : Window
 > | Position		| - Teacher
 > | Responsibility	| - Plan structure of program
