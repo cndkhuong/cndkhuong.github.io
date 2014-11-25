@@ -28,7 +28,7 @@ ACHIEVEMENTS
 - Possess knowledge of Insurance, Banking, Pay Gateway, Payroll, Reconcile, Horse racing, ...
 - Work with senior consultants to build CMMI3 and Agile methodology for company
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
-- Over eight years’ experience in Software Development on Java and Oracle
+- Over **9 years** experience in Software Development on Java and Oracle
 - Interest learn new technologies
 
 TECHNICAL SKILLS
