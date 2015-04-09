@@ -54,7 +54,27 @@ TRAININGS ATTENDED
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
-**Quadrant Technologies – Singapore** (January 2014 - Present)
+**Great Eastern Life Insurance – Singapore** (January 2015 - present)
+
+Senior Application Developer
+
+> **FPMS** : A financial product manage system 
+
+> | 				| 																|
+> | :-------------- | :------------------------------------------------------------ |
+> | Skill Set 		| - Language/Framework:  Java Struts & Oracle PLSQL  
+> |					| - Tools : HP QA, QC,  Dimension, Eclipse, PLSQL Developer
+> |					| - Environments : Weblogic, Linux/Window, IE
+> |	Position		| - Senior Developer (Frontend & Backend & Database)
+> |	Responsibility	| - Frontend with Java based on Struts framework, Backend with Oracle PLSQL
+> |					| - Maintain and fix bugs on Production & UAT environtment
+> |	Lessons Learned	| - Study about insurance domain
+> |					| - Follow process based on CMMi 5
+> |					| - PLSQL develope and debug 
+> |					| - Investigate user problem by following the data flow
+
+
+**Quadrant Technologies – Singapore** (January 2014 - December 2015)
 
 Senior Application Consultant - Key Member
 
