@@ -54,23 +54,22 @@ TRAININGS ATTENDED
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
-**Great Eastern Life Insurance – Singapore** (January 2015 - present)
+**Crimson Logic – Singapore** (January 2015 - present)
 
-Senior Application Developer
+Senior Software Engineer
 
-> **FPMS** : A financial product manage system 
+> **Frontier** : A goverment licence manage system 
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Language/Framework:  Java Struts & Oracle PLSQL  
-> |					| - Tools : HP QA, QC,  Dimension, Eclipse, PLSQL Developer
-> |					| - Environments : Weblogic, Linux/Window, IE
-> |	Position		| - Senior Developer (Frontend & Backend & Database)
-> |	Responsibility	| - Frontend with Java based on Struts framework, Backend with Oracle PLSQL
-> |					| - Maintain and fix bugs on Production & UAT environtment
-> |	Lessons Learned	| - Study about insurance domain
-> |					| - Follow process based on CMMi 5
-> |					| - PLSQL develope and debug 
+> | Skill Set 		| - Language/Framework:  Java Spring, Quartz & DB2  
+> |					| - Tools : QA tool, Eclipse, IBM Studio DB2
+> |					| - Environments : JBoss, Linux/Window, IE/FF/Chrome
+> |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
+> |	Responsibility	| - Frontend with Java based on String framework, BatchJob used Quartz
+> |					| - Maintain and develope on Production & UAT environtment
+> |	Lessons Learned	| - Study about goverment domain
+> |					| - DB2 data patch & maintain 
 > |					| - Investigate user problem by following the data flow
 
 
