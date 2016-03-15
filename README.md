@@ -58,7 +58,7 @@ PROFESSIONAL EXPERIENCES
 
 Senior Software Engineer
 
-> **Frontier** : A goverment licence manage system 
+> **Frontier (LicenceOne)** : A goverment licence manage system 
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
@@ -66,7 +66,7 @@ Senior Software Engineer
 > |					| - Tools : QA tool, Eclipse, IBM Studio DB2
 > |					| - Environments : JBoss, Linux/Window, IE/FF/Chrome
 > |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
-> |	Responsibility	| - Frontend with Java based on String framework, BatchJob used Quartz
+> |	Responsibility	| - Frontend with Java based on Spring framework, BatchJob used Quartz, Webservice (JSON) with CXF
 > |					| - Maintain and develope on Production & UAT environtment
 > |	Lessons Learned	| - Study about goverment domain
 > |					| - DB2 data patch & maintain 
