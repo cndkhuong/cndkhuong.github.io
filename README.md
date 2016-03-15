@@ -12,7 +12,7 @@
 
 CAREER OBJECTION
 ----------------------------
-Be part of a committed workforce community where I can utilize my coding skills, analysis and design applications, and communicate skills.
+Be part of a committed workforce community where I can utilize my coding skills, analysis ,architect applications, and communicate skills.
 
 QUALIFICATION HIGHLIGHTS
 ------------------------
@@ -28,17 +28,17 @@ ACHIEVEMENTS
 - Possess knowledge of Insurance, Banking, Pay Gateway, Payroll, Reconcile, Horse racing, ...
 - Work with senior consultants to build CMMI3 and Agile methodology for company
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
-- Over **9 years** experience in Software Development on Java and Oracle
-- Interest learn new technologies
+- Over **10 years** experience in Software Development on Java and Oracle
+- Interest learn new technologies (studing on Android, Scala and Microservice pattern now)
 
 TECHNICAL SKILLS
 -----------------------
-- Language and Script: Java, Javascipt, Ruby...
+- Language and Script: Java, Javascipt, Ruby, Scala...
 - Database: Oracle, MySQL, Postgres, DB2, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
 - Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
 - Methodology: RUP & Agile(Scrum)
-- Office: Microsoft Office – Word, Excel, Power Point, Outlook, and Visio
+- Office: Microsoft Office – Word, Excel, Power Point, Outlook, Visio and LibreOffice
 - Operation system : Windows, Linux, Android
 - Browsers: IE, Firefox, Safari and Chrome
 
@@ -54,7 +54,7 @@ TRAININGS ATTENDED
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
-**Crimson Logic – Singapore** (January 2015 - present)
+**Crimson Logic – Singapore** (April 2015 - present)
 
 Senior Software Engineer
 
@@ -73,7 +73,7 @@ Senior Software Engineer
 > |					| - Investigate user problem by following the data flow
 
 
-**Quadrant Technologies – Singapore** (January 2014 - December 2015)
+**Quadrant Technologies – Singapore** (January 2014 - April 2015)
 
 Senior Application Consultant - Key Member
 
