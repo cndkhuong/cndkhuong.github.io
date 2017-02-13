@@ -54,7 +54,28 @@ TRAININGS ATTENDED
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
-**Crimson Logic – Singapore** (April 2015 - present)
+**SOLDERFIELD Group – Singapore** (September 2016 - present)
+
+Web Application Lead
+
+> **Open System (build from scratch)** : A hyber banking system 
+
+> | 				| 																|
+> | :-------------- | :------------------------------------------------------------ |
+> | Skill Set 		| - Language/Framework:  Java SpringBoot, NodeJS & Angular2, MySQL & DB2  
+> |					| - Tools : IntelliJ, Visual Code, Redmine, Git, Jenkins ...
+> |					| - Environments : SpringBoot with Tomcat engine, Nginx, Linux & Unix AIX, IE/FF/Chrome
+> |	Position		| - Leader frontent ,Leader backend
+> |	Responsibility	| - Leader web frontent framework design with Angular2
+> |     | - Leader backend framework design with SpringBoot 
+> |     | - Develope on both frontend and backend
+> |     | - Infras setup with Linux and Unix
+> |					| - Maintain and develope on Production & UAT environtment
+> |     | - Code preview and technique suggest
+> |	Lessons Learned	| - Study about banking domain
+> |					| - Leadership and communication 
+> |					| - Building system from scratch
+**Crimson Logic – Singapore** (April 2015 - September 2016)
 
 Senior Software Engineer
 
