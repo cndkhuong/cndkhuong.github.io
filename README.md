@@ -56,7 +56,7 @@ PROFESSIONAL EXPERIENCES
 ------------------------------------
 **SOLDERFIELD Group – Singapore** (September 2016 - present)
 
-Web Application Lead
+Web Application Lead (key member)
 
 > **Open System (build from scratch)** : A hyber banking system 
 
