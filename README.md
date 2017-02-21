@@ -51,7 +51,7 @@ TRAININGS ATTENDED
 - English course at Bristish Council
 - CEH and Stock courses
 - CMMi3 in-house course
-
+- Learning BigData with Spark and Scala 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
 **SOLDERFIELD Group – Singapore** (September 2016 - present)
