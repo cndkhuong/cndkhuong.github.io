@@ -6,7 +6,7 @@
 + Married status: 	Married
 + Gender: 	Male
 + Birth Year: 	1985
-+ Address: 	Tampines Str 71, Block 706, #05-68, (S)520706, Singapore 
++ Address: 	Bedok south Avenue 3, Block 69, #09-470, (S)460069, Singapore 
 
 ----------
 
@@ -52,6 +52,7 @@ TRAININGS ATTENDED
 - CEH and Stock courses
 - CMMi3 in-house course
 - Learning BigData with Spark and Scala
+- Learning Mobile Development with Kotlin 
 
 PROFESSIONAL EXPERIENCES
 ------------------------------------
@@ -63,18 +64,19 @@ Web Application Lead (key member)
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Language/Framework:  Java SpringBoot, NodeJS & Angular2, MySQL & DB2  
+> | Skill Set 		| - Language/Framework:  Java/Kotlin SpringBoot, Apache Camel, ActiveMQ, NodeJS & Angular2, MySQL & DB2  
 > |					| - Tools : IntelliJ, Visual Code, Redmine, Git, Jenkins ...
 > |					| - Environments : SpringBoot with Tomcat engine, Nginx, Linux & Unix AIX, IE/FF/Chrome
 > |	Position		| - Leader frontent ,Leader backend
 > |	Responsibility	| - Leader web frontent framework design with Angular2
-> |     | - Leader backend framework design with SpringBoot 
-> |     | - Develope on both frontend and backend
+> |     | - Leader backend framework design with SpringBoot
+> |     | - Leader messages queue framework design with Camel and ActiveMQ 
+> |     | - Develope on both frontend ,backend and message services
 > |     | - Infras setup with Linux and Unix
 > |					| - Maintain and develope on Production & UAT environtment
 > |     | - Code preview and technique suggest
 > |	Lessons Learned	| - Study about banking domain
-> |					| - Leadership and communication 
+> |					| - Leadership, planning, design and communication skills
 > |					| - Building system from scratch
 **Crimson Logic – Singapore** (April 2015 - September 2016)
 
