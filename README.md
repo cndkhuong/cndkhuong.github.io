@@ -33,7 +33,7 @@ ACHIEVEMENTS
 
 TECHNICAL SKILLS
 -----------------------
-- Language and Script: Java, Javascipt, Ruby, Scala...
+- Language and Script: Java, Javascipt, Kotlin, Scala, Erlang...
 - Database: Oracle, MySQL, Postgres, DB2, NoSQL
 - Analysis and Design tools: Astah, Enterprise Architect
 - Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
@@ -64,13 +64,14 @@ Web Application Lead (key member)
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Language/Framework:  Java/Kotlin SpringBoot, Apache Camel, ActiveMQ, NodeJS & Angular2, MySQL & DB2  
+> | Skill Set 		| - Language/Framework:  Scala, Java/Kotlin SpringBoot, Apache Camel, ActiveMQ/Apollo, NodeJS & Angular2, MySQL & DB2  
 > |					| - Tools : IntelliJ, Visual Code, Redmine, Git, Jenkins ...
 > |					| - Environments : SpringBoot with Tomcat engine, Nginx, Linux & Unix AIX, IE/FF/Chrome
 > |	Position		| - Leader frontent ,Leader backend
 > |	Responsibility	| - Leader web frontent framework design with Angular2
 > |     | - Leader backend framework design with SpringBoot
 > |     | - Leader messages queue framework design with Camel and ActiveMQ 
+> |     | - Design/Develope FTP application for bank
 > |     | - Develope on both frontend ,backend and message services
 > |     | - Infras setup with Linux and Unix
 > |					| - Maintain and develope on Production & UAT environtment
