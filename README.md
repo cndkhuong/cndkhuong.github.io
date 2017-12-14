@@ -18,7 +18,10 @@ QUALIFICATION HIGHLIGHTS
 ------------------------
 - 3rd position team of IT challenge at college (2004)
 - Best programmer of year (2011)
+- Best mentor of month (6/2017)
+- Founder of Vietnam Kotlin User Group (http://kotlinlang.org/community/user-groups.html , http://vnkotlin.com)
 - Key member at last companies
+- Honor presenter at Vietnam Websubmit 2017 (bigest technique event at Vietnam)
 
 ACHIEVEMENTS
 -------------------
@@ -28,8 +31,8 @@ ACHIEVEMENTS
 - Possess knowledge of Insurance, Banking, Pay Gateway, Payroll, Reconcile, Horse racing, ...
 - Work with senior consultants to build CMMI3 and Agile methodology for company
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
-- Over **10 years** experience in Software Development on Java and Oracle
-- Interest learn new technologies (studing on Android, Scala and Microservice pattern now)
+- Over **10 years** experience in Software Development on Java
+- Interest learn new technologies (studing on Blockchain, Bigdata and AI now)
 
 TECHNICAL SKILLS
 -----------------------
@@ -51,6 +54,7 @@ TRAININGS ATTENDED
 - English course at Bristish Council
 - CEH and Stock courses
 - CMMi3 in-house course
+- Learning and teaching Chatbot technology 
 - Learning BigData with Spark and Scala
 - Learning Mobile Development with Kotlin 
 
@@ -58,7 +62,7 @@ PROFESSIONAL EXPERIENCES
 ------------------------------------
 **SOLDERFIELD Group – Singapore** (September 2016 - present)
 
-Web Application Lead (key member)
+Web Application Lead (core member)
 
 > **Open System (build from scratch)** : A hyber banking system 
 
