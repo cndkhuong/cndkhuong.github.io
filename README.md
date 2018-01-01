@@ -16,12 +16,12 @@ Be part of a committed workforce community where I can utilize my coding skills,
 
 QUALIFICATION HIGHLIGHTS
 ------------------------
-- 3rd position team of IT challenge at college (2004)
-- Best programmer of year (2011)
-- Best mentor of month (6/2017)
 - Founder of Vietnam Kotlin User Group (http://kotlinlang.org/community/user-groups.html , http://vnkotlin.com)
-- Key member at last companies
 - Honor presenter at Vietnam Websubmit 2017 (bigest technique event at Vietnam)
+- Best mentor of month (6/2017)
+- Best programmer of year (2011)
+- 3rd position team of IT challenge at college (2004)
+- Key member at last companies
 
 ACHIEVEMENTS
 -------------------
@@ -37,7 +37,8 @@ ACHIEVEMENTS
 TECHNICAL SKILLS
 -----------------------
 - Language and Script: Java, Javascipt, Kotlin, Scala, Erlang...
-- Database: Oracle, MySQL, Postgres, DB2, NoSQL
+- Database: Oracle, MySQL, Postgres, DB2
+- Message queues : ActiveMQ, Apache Apolo
 - Analysis and Design tools: Astah, Enterprise Architect
 - Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
 - Methodology: RUP & Agile(Scrum)
@@ -54,7 +55,7 @@ TRAININGS ATTENDED
 - English course at Bristish Council
 - CEH and Stock courses
 - CMMi3 in-house course
-- Learning and teaching Chatbot technology 
+- Learning and teaching Chatbot AI technology 
 - Learning BigData with Spark and Scala
 - Learning Mobile Development with Kotlin 
 
@@ -62,7 +63,7 @@ PROFESSIONAL EXPERIENCES
 ------------------------------------
 **SOLDERFIELD Group – Singapore** (September 2016 - present)
 
-Web Application Lead (core member)
+Application Lead (core member)
 
 > **Open System (build from scratch)** : A hyber banking system 
 
@@ -71,12 +72,13 @@ Web Application Lead (core member)
 > | Skill Set 		| - Language/Framework:  Scala, Java/Kotlin SpringBoot, Apache Camel, ActiveMQ/Apollo, NodeJS & Angular2, MySQL & DB2  
 > |					| - Tools : IntelliJ, Visual Code, Redmine, Git, Jenkins ...
 > |					| - Environments : SpringBoot with Tomcat engine, Nginx, Linux & Unix AIX, IE/FF/Chrome
-> |	Position		| - Leader frontent ,Leader backend
+> |	Position		| - Leading on architect, frontent and backend
 > |	Responsibility	| - Leader web frontent framework design with Angular2
 > |     | - Leader backend framework design with SpringBoot
 > |     | - Leader messages queue framework design with Camel and ActiveMQ 
+> |     | - Design/Develope API gateway for bank's partner
 > |     | - Design/Develope FTP application for bank
-> |     | - Develope on both frontend ,backend and message services
+> |     | - Develope on both frontend ,backend and service based on message queue
 > |     | - Infras setup with Linux and Unix
 > |					| - Maintain and develope on Production & UAT environtment
 > |     | - Code preview and technique suggest
@@ -85,7 +87,7 @@ Web Application Lead (core member)
 > |					| - Building system from scratch
 **Crimson Logic – Singapore** (April 2015 - September 2016)
 
-Senior Software Engineer
+Senior Software Engineer (fullstack)
 
 > **Frontier (LicenceOne)** : A goverment licence manage system 
 
@@ -93,7 +95,7 @@ Senior Software Engineer
 > | :-------------- | :------------------------------------------------------------ |
 > | Skill Set 		| - Language/Framework:  Java Spring, Quartz & DB2  
 > |					| - Tools : QA tool, Eclipse, IBM Studio DB2
-> |					| - Environments : JBoss, Linux/Window, IE/FF/Chrome
+> |					| - Environments : JBoss/Tomcat, Linux/Window, IE/FF/Chrome
 > |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
 > |	Responsibility	| - Frontend with Java based on Spring framework, BatchJob used Quartz, Webservice (JSON) with CXF
 > |					| - Maintain and develope on Production & UAT environtment
