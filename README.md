@@ -28,11 +28,12 @@ ACHIEVEMENTS
 - Gain trust of colleagues
 - Be appreciated at work and nomination to higher position
 - Make and handle the deployment process as well as Test system for all projects in the current workplace
-- Possess knowledge of Insurance, Banking, Pay Gateway, Payroll, Reconcile, Horse racing, ...
+- Possess knowledge of Banking, Goverment, Pay Gateway, Insurance, Payroll, Reconcile, Horse racing, ...
 - Work with senior consultants to build CMMI3 and Agile methodology for company
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
+- One year experienced in mentoring Java, Web, Software development at Funix University (Vietnam)
 - Over **10 years** experience in Software Development on Java
-- Interest learn new technologies (studing on Blockchain, Bigdata and AI now)
+- Interest learn and share new technologies (studing on Blockchain, Bigdata and AI now)
 
 TECHNICAL SKILLS
 -----------------------
