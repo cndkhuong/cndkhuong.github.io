@@ -76,6 +76,7 @@ Application Lead (core member)
 > |	Position		| - Leading on architect, frontent and backend
 > |	Responsibility	| - Leader web frontent framework design with Angular2
 > |     | - Leader backend framework design with SpringBoot
+> |     | - Leader API Gateway framework design with OAuth2 
 > |     | - Leader messages queue framework design with Camel and ActiveMQ 
 > |     | - Design/Develope API gateway for bank's partner
 > |     | - Design/Develope FTP application for bank
