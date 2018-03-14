@@ -37,10 +37,10 @@ ACHIEVEMENTS
 
 TECHNICAL SKILLS
 -----------------------
-- Language and Script: Java, Javascipt, Kotlin, Scala, Erlang...
+- Language and Script: Java, Javascipt/Typescript, Kotlin, Scala, Ruby, Erlang...
+- Framework : Spring/SpringBoot, Struts, Hibernate/JPA, GWT, Angular, ActiveMQ/Apolo, Play, Vert.x, Rails, Akka...
 - Database: Oracle, MySQL, Postgres, DB2
-- Message queues : ActiveMQ, Apache Apolo
-- Analysis and Design tools: Astah, Enterprise Architect
+- Analysis and Design tools: Astah, Enterprise Architect, Visio
 - Configuration Management Tools: SVN & Git, Jira & Redmine, Sonar, Maven, Hudson & Jenkins
 - Methodology: RUP & Agile(Scrum)
 - Office: Microsoft Office – Word, Excel, Power Point, Outlook, Visio and LibreOffice
