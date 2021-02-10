@@ -22,6 +22,8 @@ QUALIFICATION HIGHLIGHTS
 - Best programmer of year (2011)
 - 3rd position team of IT challenge at college (2004)
 - Key member at last companies
+- University of Alberta Software Design and Architecture Specialization
+- Software Architect Group & Meetup
 
 ACHIEVEMENTS
 -------------------
