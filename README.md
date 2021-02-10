@@ -6,7 +6,7 @@
 + Married status: 	Married
 + Gender: 	Male
 + Birth Year: 	1985
-+ Address: 	Bedok south Avenue 3, Block 69, #09-470, (S)460069, Singapore 
++ Address: 	550 Yishun Ave 6, #04-01, (S) 768961, Singapore 
 
 ----------
 
