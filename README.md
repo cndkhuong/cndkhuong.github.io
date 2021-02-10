@@ -34,7 +34,7 @@ ACHIEVEMENTS
 - Work with senior consultants to build CMMI3 and Agile methodology for company
 - Two years experienced in teaching Java Core and Web at Natural Science University Computer Center (Vietnam)
 - One year experienced in mentoring Java, Web, Software development at Funix University (Vietnam)
-- Over **10 years** experience in Software Development on Java
+- Over **10 years** experience in Software Development
 - Interest learn and share new technologies (studing on Blockchain, Bigdata and AI now)
 
 TECHNICAL SKILLS
@@ -52,6 +52,7 @@ TECHNICAL SKILLS
 EDUCATION
 --------------
 Bachelor of Computer Science, HCMC University of Natural Sciences, Vietnam (2011)
+MSc Computer Science (start from 2020)
 
 TRAININGS ATTENDED
 ---------------------------
